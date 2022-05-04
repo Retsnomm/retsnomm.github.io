@@ -49,15 +49,12 @@
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About Retsnom</title>
       <link>https://github.com/Retsnomm/about/</link>
-      <pubDate>Sat, 11 Apr 2020 19:15:32 +0800</pubDate>
+      <pubDate> 11 May 2022 19:15:32 +0800</pubDate>
       
       <guid>https://github.com/Retsnomm/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
+      <description>I am a normal person in the world.I like to read and learn.I will share my world in there for you.</description>
     </item>
     
     <item>
