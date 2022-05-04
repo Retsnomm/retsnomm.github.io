@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aplayer on Retsnom</title>
-    <link>https://github.com/Retsnomm/tags/aplayer/</link>
-    <description>Recent content in aplayer on Retsnom</description>
+    <title>aplayer on Hugo Theme Fuji</title>
+    <link>https://github.dsrkafuu.net/hugo-theme-fuji/tags/aplayer/</link>
+    <description>Recent content in aplayer on Hugo Theme Fuji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://github.com/Retsnomm/tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>第一篇文章</title>
-      <link>https://github.com/Retsnomm/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0800</pubDate>
-      
-      <guid>https://github.com/Retsnomm/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-      <description>哈囉 今天也要努力生活，努力享受，直到成為理想的自己。</description>
-    </item>
-    
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://github.dsrkafuu.net/hugo-theme-fuji/tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In-post APlayer Test</title>
-      <link>https://github.com/Retsnomm/post/aplayer-test/</link>
+      <link>https://github.dsrkafuu.net/hugo-theme-fuji/post/aplayer-test/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Retsnomm/post/aplayer-test/</guid>
+      <guid>https://github.dsrkafuu.net/hugo-theme-fuji/post/aplayer-test/</guid>
       <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
   &lt;div
     class=&#34;post-aplayer&#34;
-    data-base=&#34;https://github.com/Retsnomm&#34;
+    data-base=&#34;https://github.dsrkafuu.net/hugo-theme-fuji/&#34;
     data-urls=&#34;/aplayer/berlin.mp3&#34;
     data-names=&#34;Berlin&#34;
     data-artists=&#34;Crowander&#34;
